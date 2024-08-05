@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0090-subsets-ii) |
 ## Array
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0090-subsets-ii) |
 | [0890-lemonade-change](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0890-lemonade-change) |
 ## Bit Manipulation
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
