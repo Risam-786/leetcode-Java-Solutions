@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
