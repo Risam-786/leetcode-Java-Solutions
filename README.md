@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0078-subsets) |
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
