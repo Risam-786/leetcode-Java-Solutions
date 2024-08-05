@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -115,8 +116,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
