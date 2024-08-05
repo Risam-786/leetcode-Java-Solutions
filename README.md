@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0078-subsets) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0890-lemonade-change) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
