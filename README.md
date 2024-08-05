@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0067-add-binary) |
