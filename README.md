@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0890-lemonade-change](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0890-lemonade-change) |
 | [1022-unique-paths-iii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1022-unique-paths-iii) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Bit Manipulation
 |  |
 | ------- |
