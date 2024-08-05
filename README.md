@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0079-word-search) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
