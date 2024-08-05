@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [3311-ant-on-the-boundary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3311-ant-on-the-boundary) |
 ## Greedy
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0507-perfect-number) |
 ## Dynamic Programming
 |  |
