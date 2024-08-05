@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0890-lemonade-change) |
 | [1022-unique-paths-iii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1022-unique-paths-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [3311-ant-on-the-boundary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3311-ant-on-the-boundary) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0067-add-binary) |
+| [3311-ant-on-the-boundary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3311-ant-on-the-boundary) |
 ## Greedy
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
