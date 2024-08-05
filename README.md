@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -168,10 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -198,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0155-min-stack) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
