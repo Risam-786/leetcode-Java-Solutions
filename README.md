@@ -153,11 +153,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
