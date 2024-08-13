@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1137-height-checker) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3311-ant-on-the-boundary) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting Sort
 |  |
 | ------- |
