@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3311-ant-on-the-boundary) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1022-unique-paths-iii) |
 | [1835-decode-xored-permutation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1835-decode-xored-permutation) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Matrix
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1250-longest-common-subsequence) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0778-reorganize-string) |
+## Bitmask
+|  |
+| ------- |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
 <!---LeetCode Topics End-->
