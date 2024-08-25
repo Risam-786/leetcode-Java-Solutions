@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0778-reorganize-string) |
+| [0782-jewels-and-stones](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0782-jewels-and-stones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0778-reorganize-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0778-reorganize-string) |
+| [0782-jewels-and-stones](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0782-jewels-and-stones) |
 | [1250-longest-common-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
