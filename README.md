@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1013-fibonacci-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [1013-fibonacci-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1250-longest-common-subsequence) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Binary Search
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -380,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0100-same-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
