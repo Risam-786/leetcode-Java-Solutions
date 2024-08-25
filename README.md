@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0319-bulb-switcher](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0507-perfect-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
