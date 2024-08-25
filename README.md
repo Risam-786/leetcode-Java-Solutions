@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0319-bulb-switcher](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0507-perfect-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -315,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
