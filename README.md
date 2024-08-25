@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0048-rotate-image) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0063-unique-paths-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -340,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
