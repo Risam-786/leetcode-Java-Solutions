@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0079-word-search) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0055-jump-game) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0179-largest-number) |
