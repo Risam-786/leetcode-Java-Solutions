@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0782-jewels-and-stones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0392-is-subsequence) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0917-boats-to-save-people) |
 | [1137-height-checker](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1137-height-checker) |
