@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0214-shortest-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0778-reorganize-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0778-reorganize-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1894-merge-strings-alternately) |
