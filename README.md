@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0179-largest-number) |
 | [0221-maximal-square](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0890-lemonade-change](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0890-lemonade-change) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0238-product-of-array-except-self) |
 | [3311-ant-on-the-boundary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3311-ant-on-the-boundary) |
 ## String Matching
 |  |
