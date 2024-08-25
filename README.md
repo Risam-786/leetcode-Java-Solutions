@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0414-third-maximum-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0917-boats-to-save-people) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0414-third-maximum-number) |
 | [0778-reorganize-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0917-boats-to-save-people) |
 | [1137-height-checker](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1137-height-checker) |
