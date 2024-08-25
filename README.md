@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0179-largest-number) |
 | [0221-maximal-square](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0890-lemonade-change](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0890-lemonade-change) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1022-unique-paths-iii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1022-unique-paths-iii) |
 ## Simulation
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Linked List
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Merge Sort
 |  |
 | ------- |
