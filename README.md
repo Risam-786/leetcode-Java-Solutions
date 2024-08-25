@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0778-reorganize-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0782-jewels-and-stones) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1894-merge-strings-alternately) |
