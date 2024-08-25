@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0742-to-lower-case) |
 | [0778-reorganize-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Backtracking
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0812-rotate-string) |
 ## Stack
 |  |
 | ------- |
