@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1022-unique-paths-iii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1022-unique-paths-iii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0326-power-of-three) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0342-power-of-four) |
