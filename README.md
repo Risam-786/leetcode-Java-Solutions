@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0782-jewels-and-stones) |
 | [1250-longest-common-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Backtracking
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0917-boats-to-save-people) |
+| [1894-merge-strings-alternately](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
