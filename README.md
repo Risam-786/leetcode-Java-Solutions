@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0742-to-lower-case](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0742-to-lower-case) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0415-add-strings) |
 | [3311-ant-on-the-boundary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3311-ant-on-the-boundary) |
 ## Greedy
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1013-fibonacci-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
