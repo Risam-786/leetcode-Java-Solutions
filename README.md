@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1013-fibonacci-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0441-arranging-coins) |
 ## Linked List
 |  |
 | ------- |
