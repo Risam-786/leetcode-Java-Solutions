@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0342-power-of-four) |
