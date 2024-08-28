@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0742-to-lower-case](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0742-to-lower-case) |
