@@ -1,10 +1,9 @@
 import java.math.BigInteger;
 class Solution {
     public String addStrings(String num1, String num2) {
-        BigInteger n = new BigInteger(num1);
-        BigInteger m = new BigInteger(num2);
-        BigInteger res = n.add(m);
-      
-        return res.toString();
+        BigInteger number1 = new BigInteger(num1);
+        BigInteger number2 = new BigInteger(num2);
+        BigInteger sum = number1.add(number2);
+        return sum.toString();
     }
 }
