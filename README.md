@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0414-third-maximum-number) |
+| [0566-reshape-the-matrix](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0917-boats-to-save-people) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1022-unique-paths-iii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1022-unique-paths-iii) |
 ## Simulation
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0566-reshape-the-matrix) |
 | [3311-ant-on-the-boundary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3311-ant-on-the-boundary) |
 ## Greedy
 |  |
