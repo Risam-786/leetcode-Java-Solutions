@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0342-power-of-four) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0319-bulb-switcher) |
 ## Binary Search Tree
 |  |
@@ -450,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0258-add-digits) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
