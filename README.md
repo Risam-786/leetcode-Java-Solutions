@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0179-largest-number) |
