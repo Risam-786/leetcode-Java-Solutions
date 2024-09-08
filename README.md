@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0778-reorganize-string) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0263-ugly-number) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0344-reverse-string) |
