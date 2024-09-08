@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0268-missing-number) |
 | [0778-reorganize-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0782-jewels-and-stones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0414-third-maximum-number) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1022-unique-paths-iii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1022-unique-paths-iii) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0342-power-of-four) |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0374-guess-number-higher-or-lower) |
@@ -300,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0414-third-maximum-number) |
 | [0778-reorganize-string](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0917-boats-to-save-people) |
