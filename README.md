@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0231-power-of-two) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
