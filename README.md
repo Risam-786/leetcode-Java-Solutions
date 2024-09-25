@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1013-fibonacci-number) |
+| [1289-day-of-the-week](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/1289-day-of-the-week) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Risam-786/leetcode-Java-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
